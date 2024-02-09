@@ -1,4 +1,4 @@
-# 1. Print
+# 1. PRINT
 Write a program in main.py that prints the following notes on Python programming into the Output console. Your code should print all three lines.
 
 Day 1 - Python Print Function
